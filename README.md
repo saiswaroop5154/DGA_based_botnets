@@ -1,1 +1,1 @@
-# DGA_based_botnets
+# DGA based botnet detection using Machine Algorithms
